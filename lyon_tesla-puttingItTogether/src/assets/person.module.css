@@ -1,0 +1,28 @@
+.birthdayCard {
+    margin: 1%;
+    max-width: 250px;
+    max-height: 400px;
+    padding: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 25px;
+    background-color: #99c4c9;
+    text-align: center;
+}
+h1 {
+    font-family: "Courier New", serif;
+    font-weight: bolder;
+}
+h2 {
+    font-size: 1em;
+    font-family: "Courier New", serif;
+    font-weight: bold;
+}
+h3 {
+    font-family: "Courier New", serif;
+    font-weight: normal;
+}
+
+button {
+  background-color: #cb8ae0;
+  border-radius: 25%;
+}
